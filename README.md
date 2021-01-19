@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
@@ -73,5 +73,4 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](LICENSE).
 =======
-# hk-nest-api
->>>>>>> 8c71f55000ef48082f46b206d73753daf08d5894
+
