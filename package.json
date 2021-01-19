@@ -6,7 +6,6 @@
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
-    
     "prebuild": "rimraf dist",
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
@@ -68,6 +67,7 @@
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
   },
-  "engines": {"nest":"7.x"}
-
+  "engines": {
+    "node": "15.x"
+  }
 }
