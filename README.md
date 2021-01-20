@@ -59,13 +59,13 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 ## Links
--Github Repo Link:
+- Github Repo Link:
 [https://github.com/KHARIKA17/hk-nest-api](https://github.com/KHARIKA17/hk-nest-api)
 
--App Link:
+- App Link:
 [https://git.heroku.com/hk-nest-api.git](https://git.heroku.com/hk-nest-api.git)
 
--Heroku Link:
+- Heroku Link:
 [https://hk-nest-api.herokuapp.com/](https://hk-nest-api.herokuapp.com/)
 
 ## Support
@@ -74,7 +74,6 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
 - Website - [https://nestjs.com](https://nestjs.com/)
 - Twitter - [@nestframework](https://twitter.com/nestframework)
 
