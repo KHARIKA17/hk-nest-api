@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
@@ -60,6 +59,14 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+## Github Repo Link:
+
+
+## App Link:
+
+## Heroku Link:
+[https://hk-nest-api.herokuapp.com/](https://hk-nest-api.herokuapp.com/)
+
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support)
@@ -73,8 +80,3 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
-=======
-
-=======
-# hk-nest-api
->>>>>>> d93f4348a4294441013fccc6e3c3523948b8ff39
