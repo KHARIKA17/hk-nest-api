@@ -58,13 +58,14 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+## Links
+-Github Repo Link:
+[https://github.com/KHARIKA17/hk-nest-api](https://github.com/KHARIKA17/hk-nest-api)
 
-## Github Repo Link:
+-App Link:
+[https://git.heroku.com/hk-nest-api.git](https://git.heroku.com/hk-nest-api.git)
 
-
-## App Link:
-
-## Heroku Link:
+-Heroku Link:
 [https://hk-nest-api.herokuapp.com/](https://hk-nest-api.herokuapp.com/)
 
 ## Support
