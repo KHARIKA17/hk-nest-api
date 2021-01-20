@@ -7,6 +7,6 @@ export class AppService {
   }
 
   getAbout(): string {
-    return "About Harika";
+    return "About Harika.";
   }
 }
