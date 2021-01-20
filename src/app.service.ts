@@ -5,4 +5,8 @@ export class AppService {
   getHello(): string {
     return "Hello World! from Harika's app!";
   }
+
+  getAbout(): string {
+    return "About Harika";
+  }
 }
